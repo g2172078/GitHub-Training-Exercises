@@ -1,2 +1,5 @@
-# GitHub-Training-Exercises
-GitHub講習会での演習用リポジトリ
+## ユーザ名
+ここに入力
+
+## 今年やりたいこと
+ここに入力
